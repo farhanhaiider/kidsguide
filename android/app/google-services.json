@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "759072097805",
+    "project_id": "testing-9bbc3",
+    "storage_bucket": "testing-9bbc3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:759072097805:android:a12f70f351f90651457744",
+        "android_client_info": {
+          "package_name": "com.example.kidsguide"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6OeoKqU8aEbJit3N5stCj_ui99RTInDE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:759072097805:android:20a2b52308e8e0d3457744",
+        "android_client_info": {
+          "package_name": "com.example.testing"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6OeoKqU8aEbJit3N5stCj_ui99RTInDE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
